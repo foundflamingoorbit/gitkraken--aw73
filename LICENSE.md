@@ -1,4 +1,4 @@
-# 
+# automatic GitKraken for PC | GitKraken for Windows Plugin | rebase-support + cherry-picking offers the most advanced GitKraken for PC | GitKraken for Windows plugin, with
 
 
 
